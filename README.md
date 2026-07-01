@@ -33,7 +33,7 @@ The application compares multiple machine learning algorithms and automatically 
 
 ## Folder Structure
 
-```
+```text
 Credit_Card_Approval_Prediction
 │
 ├── Dataset
@@ -103,4 +103,4 @@ python app.py
 
 ## Author
 
-Mannem Sindhu Priya
+**Mannem Sindhu Priya**
