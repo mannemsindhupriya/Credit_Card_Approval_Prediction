@@ -10,7 +10,8 @@ print(df.columns.tolist())
 
 import pandas as pd
 
+# Load dataset
 df = pd.read_csv("../Dataset/Application_Data.csv")
 
-print(df["Applicant_Gender"].unique())
-print(df["Income_Type"].unique())
+# Display first 5 rows
+print(df.head())
